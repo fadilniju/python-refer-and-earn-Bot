@@ -5,9 +5,9 @@ import telebot
 ##TOKEN DETAILS
 TOKEN = "TRON"
 
-BOT_TOKEN = "YOUR BOT TOKEN"
-PAYMENT_CHANNEL = "@AthumTest" #add payment channel here including the '@' sign
-OWNER_ID = 1194007250 #write owner's user id here.. get it from @MissRose_Bot by /id
+BOT_TOKEN = "2076957337:AAHIdoQduCG1-i4QX6WCNMaCXKNqjrywoUM"
+PAYMENT_CHANNEL = "@NeedBotMaker" #add payment channel here including the '@' sign
+OWNER_ID = 1107159694 #write owner's user id here.. get it from @MissRose_Bot by /id
 CHANNELS = ["@NeedBotMaker"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
               #you can add as many channels here and also add the '@' sign before channel username
 Daily_bonus = 0.001 #Put daily bonus amount here!
